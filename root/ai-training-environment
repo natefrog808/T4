@@ -1,0 +1,18 @@
+# Create main project directories
+mkdir ai-training-environment
+cd ai-training-environment
+mkdir src
+mkdir public
+mkdir src/components
+mkdir src/components/TrainingEnvironment
+
+# Create the files
+touch .gitignore
+touch LICENSE
+touch README.md
+touch package.json
+touch public/index.html
+touch src/App.jsx
+touch src/components/TrainingEnvironment/index.jsx
+touch src/components/TrainingEnvironment/constants.js
+touch src/components/TrainingEnvironment/styles.css
