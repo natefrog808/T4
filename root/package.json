@@ -1,7 +1,7 @@
 {
   "name": "ai-training-environment",
   "version": "1.0.0",
-  "description": "An interactive React component for AI pattern recognition training",
+  "description": "Interactive AI Training Environment for Pattern Recognition",
   "main": "src/index.js",
   "scripts": {
     "start": "react-scripts start",
